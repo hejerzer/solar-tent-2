@@ -2,16 +2,16 @@
   "data": {
     "uniforms": {
       "1": {
-        "shirt_template": "rbxassetid://117550483504762",
-        "pants_template": "rbxassetid://91082971609197"
+        "shirt_template": ["rbxassetid://117550483504762", "92661212902847"],
+        "pants_template": ["rbxassetid://91082971609197", "82561507702462"]
       },
       "2": {
-        "shirt_template": "rbxassetid://91630886875724",
-        "pants_template": "rbxassetid://91082971609197"
+        "shirt_template": ["rbxassetid://91630886875724", "120112270718231"],
+        "pants_template": ["rbxassetid://91082971609197", "132259206971600"]
       },
       "3": {
-        "shirt_template": "rbxassetid://123798334757794",
-        "pants_template": "rbxassetid://113794035539877"
+        "shirt_template": ["rbxassetid://123798334757794", "113073185297938"],
+        "pants_template": ["rbxassetid://113794035539877", "135558729668452"]
       }
     },
     "best_staff_month": 500273407,
