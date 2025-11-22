@@ -1,25 +1,17 @@
 {
   "data": {
     "uniforms": {
-      "uni1": {
-        "shirt_template": "#",
-        "pants_template": "#",
-        "discount": 0
+      "1": {
+        "shirt_template": "https://www.roblox.com/catalog/92661212902847/SS-Red-Hoodie",
+        "pants_template": "https://www.roblox.com/catalog/82561507702462/SS-Red-Hoodie"
       },
-      "uni2": {
-        "shirt_template": "#",
-        "pants_template": "#",
-        "discount": 10
+      "2": {
+        "shirt_template": "https://www.roblox.com/catalog/120112270718231/SS-Red-Polo",
+        "pants_template": "https://www.roblox.com/catalog/82561507702462/SS-Red-Hoodie"
       },
-      "uni3": {
-        "shirt_template": "#",
-        "pants_template": "#",
-        "discount": 5
-      },
-      "uni4": {
-        "shirt_template": "#",
-        "pants_template": "#",
-        "discount": 15
+      "3": {
+        "shirt_template": "https://www.roblox.com/catalog/113073185297938/SSS-Halloween",
+        "pants_template": "https://www.roblox.com/catalog/135558729668452/SSS-Halloween"
       }
     },
     "best_staff_month": 500273407,
