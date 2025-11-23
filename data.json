@@ -17,44 +17,32 @@
     "best_staff_month": 500273407,
     "xp_leaderboard": {
       "1": {
-        "user_name": "#",
-        "xp": 1000
+        "user_id": 1044207105,
+        "xp": 603
       },
       "2": {
-        "user_name": "#",
-        "xp": 800
+        "user_id": 1055827574,
+        "xp": 480
       },
       "3": {
-        "user_name": "#",
-        "xp": 600
+        "user_id": 3319980490,
+        "xp": 341
       },
       "4": {
-        "user_name": "#",
-        "xp": 400
+        "user_id": 7598176740,
+        "xp": 148
+      },
+      "5": {
+        "user_id": 5620315926,
+        "xp": 83
       }
     },
     "events": {
 
     },
-    "applications": [
-        {
-            "title": "Guide application",
-            "description": "Apply to become a guide and help new users.",
-            "end_date": "2025-11-23",
-            "color": [255, 255, 255]
-        }
-    ],
-    "announcements": [
-        {
-            "title": "Server Maintenance",
-            "message": "Scheduled maintenance on 2025-11-25 from 2 AM to 4 AM UTC.",
-            "date": "2025-11-20"
-        },
-        {
-            "title": "New Features Released",
-            "message": "Check out the latest features added to enhance your experience!",
-            "date": "2025-11-18"
-        }
-    ]
+    "applications": {
+          "title": "Medic Applications Are Now Open!",
+          "description": "We’re seeking active, skilled, and professional medics to join the Search and Rescue Department and ensure climbers' safety during expeditions.",
+    },
   }
 }
