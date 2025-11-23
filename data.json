@@ -37,7 +37,12 @@
         "xp": 83
       }
     },
-    "events": {},
+    "events": {
+       "name": "Choyu Halo upd",
+        "start_date": "2025-11-22",
+        "end_date": "2025-12-01",
+        "description": "Special limited-time update"
+    },
     "applications": {
       "title": "Medic Applications Are Now Open!",
       "description": "We’re seeking active, skilled, and professional medics to join the Search and Rescue Department and ensure climbers' safety during expeditions."
