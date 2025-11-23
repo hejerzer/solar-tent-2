@@ -34,11 +34,7 @@
       }
     },
     "events": {
-        "name": "Choyu Halo upd",
-        "start_date": "2025-11-22",
-        "end_date": "2025-12-01",
-        "description": "Special limited-time update",
-        "decal_id": "#"
+
     },
     "applications": [
         {
