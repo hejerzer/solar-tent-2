@@ -37,34 +37,37 @@
         "xp": 83
       }
     },
-    "events": {
-       
-    },
+    "events": {},
     "applications": {
       "title": "Medic Applications Are Now Open!",
       "description": "We’re seeking active, skilled, and professional medics to join the Search and Rescue Department and ensure climbers' safety during expeditions."
     },
     "pics": [
-        {
-            "decal_id": "rbxassetid://116673315039480",
-            "title": "Cool hats",
-            "description": "Semeru with da bois (bawguette skill issue)" 
-        },
-        {
-            "decal_id": "rbxassetid://90305552849195",
-            "title": "Antartica",
-            "description": "The snow is like cream -eje" 
-        },
-        {
-            "decal_id": "rbxassetid://129042275789786",
-            "title": "Choyu",
-            "description": "Wild admin abuse" 
-        },
-        {
-            "decal_id": "rbxassetid://106473464121419",
-            "title": "Chaos",
-            "description": "Worse than this cannot hapen" 
-        }
+      {
+        "decal_id": "rbxassetid://116673315039480",
+        "title": "Cool hats",
+        "description": "Semeru with da bois (bawguette skill issue)"
+      },
+      {
+        "decal_id": "rbxassetid://90305552849195",
+        "title": "Antartica",
+        "description": "The snow is like cream -eje"
+      },
+      {
+        "decal_id": "rbxassetid://129042275789786",
+        "title": "Choyu",
+        "description": "Wild admin abuse"
+      },
+      {
+        "decal_id": "rbxassetid://106473464121419",
+        "title": "Chaos",
+        "description": "Worse than this cannot hapen"
+      },
+      {
+        "decal_id": "rbxassetid://128921727931959",
+        "title": "SnR cape",
+        "description": "Flexing capes"
+      }
     ]
   }
 }
