@@ -37,7 +37,12 @@
         "xp": 83
       }
     },
-    "events": {},
+    "events": {
+        "name": "THE CONVERGENCE",
+        "start_date": "2025-11-6",
+        "end_date": "2025-11-13",
+        "description": "Kaleum Expedition and Solar Soul Studios proudly present:🔥THE CONVERGENCE 🔥A combined competitive event across four Roblox titles"
+    },
     "applications": {
       "title": "Medic Applications Are Now Open!",
       "description": "We’re seeking active, skilled, and professional medics to join the Search and Rescue Department and ensure climbers' safety during expeditions."
