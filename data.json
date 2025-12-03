@@ -1,112 +1,110 @@
 {
-  "data": {
-    "uniforms": [
-      {
-        "shirt_template": ["rbxassetid://117550483504762", "92661212902847"],
-        "pants_template": ["rbxassetid://91082971609197", "82561507702462"]
-      },
-      {
-        "shirt_template": ["rbxassetid://91630886875724", "120112270718231"],
-        "pants_template": ["rbxassetid://91082971609197", "132259206971600"]
-      },
-      {
-        "shirt_template": ["rbxassetid://123798334757794", "113073185297938"],
-        "pants_template": ["rbxassetid://113794035539877", "135558729668452"]
-      }
-    ],
-    "best_staff_month": 500273407,
-    "xp_leaderboard": [
-      {
-        "user_id": 1044207105,
-        "xp": 603
-      },
-      {
-        "user_id": 1055827574,
-        "xp": 490
-      },
-      {
-        "user_id": 3319980490,
-        "xp": 345
-      },
-      {
-        "user_id": 7598176740,
-        "xp": 154
-      },
-      {
-        "user_id": 5620315926,
-        "xp": 83
-      }
-    ],
-    "events": {
-        "name": "THE CONVERGENCE",
-        "start_date": "2025-11-6",
-        "end_date": "2025-11-13",
-        "description": "Kaleum Expedition and Solar Soul Studios proudly present:🔥THE CONVERGENCE 🔥A combined competitive event across four Roblox titles"
+  "uniforms": [
+    {
+      "shirt_template": ["rbxassetid://117550483504762", "92661212902847"],
+      "pants_template": ["rbxassetid://91082971609197", "82561507702462"]
     },
-    "applications": {
-      "title": "🧭 Guide Applications Are Now Open!",
-      "description": "We’re looking for active, mature, and professional guides to help lead expeditions and represent our community with amazing skills!"
+    {
+      "shirt_template": ["rbxassetid://91630886875724", "120112270718231"],
+      "pants_template": ["rbxassetid://91082971609197", "132259206971600"]
     },
-    "tips": [
-      "1. Be respectful to everyone.",
-      "2. Follow Solar's rules.",
-      "3. Follow the staff, respect them, and comply with what they say.",
-      "4. Don't overrun the guide constantly or go too far ahead.",
-      "5. Breaking the Rules may result in a warning.",
-      "6. All warnings will be reported to S&R",
-      "7. Have fun!"
-    ],
-    "pics": [
-      {
-        "decal_id": "rbxassetid://116673315039480",
-        "title": "Cool hats",
-        "description": "Semeru with da bois (bawguette skill issue)"
-      },
-      {
-        "decal_id": "rbxassetid://90305552849195",
-        "title": "Antartica",
-        "description": "The snow is like cream -eje"
-      },
-      {
-        "decal_id": "rbxassetid://129042275789786",
-        "title": "Choyu",
-        "description": "Wild admin abuse"
-      },
-      {
-        "decal_id": "rbxassetid://106473464121419",
-        "title": "Chaos",
-        "description": "Worse than this cannot hapen"
-      },
-      {
-        "decal_id": "rbxassetid://128921727931959",
-        "title": "SnR cape",
-        "description": "Flexing capes"
-      },
-      {
-        "decal_id": "rbxassetid://71974297697310",
-        "title": "#Chair",
-        "description": "23 oofs and 23 tp's"
-      },
-      {
-        "decal_id": "rbxassetid://88984905993974",
-        "title": "Tent",
-        "description": "The official image of the new solar tent."
-      },
-      {
-        "decal_id": "rbxassetid://72797382531116",
-        "title": "Solarisca",
-        "description": "The dark nights and high slopes makes this mountain very dangerous."
-      },
-      {
-        "decal_id": "rbxassetid://111061174894382",
-        "title": "Antartica drips",
-        "description": "The first ever Solar expedition!"
-      },
-      {
-        "decal_id": "rbxassetid://118165296623528",
-        "title": "Olympus speedrun",
-        "description": "Rip diplo, 1h fig speedrun."
-      }
-    ]
-  }
+    {
+      "shirt_template": ["rbxassetid://123798334757794", "113073185297938"],
+      "pants_template": ["rbxassetid://113794035539877", "135558729668452"]
+    }
+  ],
+  "best_staff_month": 500273407,
+  "xp_leaderboard": [
+    {
+      "user_id": 1044207105,
+      "xp": 603
+    },
+    {
+      "user_id": 1055827574,
+      "xp": 490
+    },
+    {
+      "user_id": 3319980490,
+      "xp": 345
+    },
+    {
+      "user_id": 7598176740,
+      "xp": 154
+    },
+    {
+      "user_id": 5620315926,
+      "xp": 83
+    }
+  ],
+  "events": {
+      "name": "THE CONVERGENCE",
+      "start_date": "2025-11-6",
+      "end_date": "2025-11-13",
+      "description": "Kaleum Expedition and Solar Soul Studios proudly present:🔥THE CONVERGENCE 🔥A combined competitive event across four Roblox titles"
+  },
+  "applications": {
+    "title": "🧭 Guide Applications Are Now Open!",
+    "description": "We’re looking for active, mature, and professional guides to help lead expeditions and represent our community with amazing skills!"
+  },
+  "tips": [
+    "1. Be respectful to everyone.",
+    "2. Follow Solar's rules.",
+    "3. Follow the staff, respect them, and comply with what they say.",
+    "4. Don't overrun the guide constantly or go too far ahead.",
+    "5. Breaking the Rules may result in a warning.",
+    "6. All warnings will be reported to S&R",
+    "7. Have fun!"
+  ],
+  "pics": [
+    {
+      "decal_id": "rbxassetid://116673315039480",
+      "title": "Cool hats",
+      "description": "Semeru with da bois (bawguette skill issue)"
+    },
+    {
+      "decal_id": "rbxassetid://90305552849195",
+      "title": "Antartica",
+      "description": "The snow is like cream -eje"
+    },
+    {
+      "decal_id": "rbxassetid://129042275789786",
+      "title": "Choyu",
+      "description": "Wild admin abuse"
+    },
+    {
+      "decal_id": "rbxassetid://106473464121419",
+      "title": "Chaos",
+      "description": "Worse than this cannot hapen"
+    },
+    {
+      "decal_id": "rbxassetid://128921727931959",
+      "title": "SnR cape",
+      "description": "Flexing capes"
+    },
+    {
+      "decal_id": "rbxassetid://71974297697310",
+      "title": "#Chair",
+      "description": "23 oofs and 23 tp's"
+    },
+    {
+      "decal_id": "rbxassetid://88984905993974",
+      "title": "Tent",
+      "description": "The official image of the new solar tent."
+    },
+    {
+      "decal_id": "rbxassetid://72797382531116",
+      "title": "Solarisca",
+      "description": "The dark nights and high slopes makes this mountain very dangerous."
+    },
+    {
+      "decal_id": "rbxassetid://111061174894382",
+      "title": "Antartica drips",
+      "description": "The first ever Solar expedition!"
+    },
+    {
+      "decal_id": "rbxassetid://118165296623528",
+      "title": "Olympus speedrun",
+      "description": "Rip diplo, 1h fig speedrun."
+    }
+  ]
 }
