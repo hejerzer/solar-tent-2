@@ -1,42 +1,42 @@
 {
   "data": {
-    "uniforms": {
-      "1": {
+    "uniforms": [
+      {
         "shirt_template": ["rbxassetid://117550483504762", "92661212902847"],
         "pants_template": ["rbxassetid://91082971609197", "82561507702462"]
       },
-      "2": {
+      {
         "shirt_template": ["rbxassetid://91630886875724", "120112270718231"],
         "pants_template": ["rbxassetid://91082971609197", "132259206971600"]
       },
-      "3": {
+      {
         "shirt_template": ["rbxassetid://123798334757794", "113073185297938"],
         "pants_template": ["rbxassetid://113794035539877", "135558729668452"]
       }
-    },
+    ],
     "best_staff_month": 500273407,
-    "xp_leaderboard": {
-      "1": {
+    "xp_leaderboard": [
+      {
         "user_id": 1044207105,
         "xp": 603
       },
-      "2": {
+      {
         "user_id": 1055827574,
-        "xp": 480
+        "xp": 490
       },
-      "3": {
+      {
         "user_id": 3319980490,
-        "xp": 341
+        "xp": 345
       },
-      "4": {
+      {
         "user_id": 7598176740,
-        "xp": 148
+        "xp": 154
       },
-      "5": {
+      {
         "user_id": 5620315926,
         "xp": 83
       }
-    },
+    ],
     "events": {
         "name": "THE CONVERGENCE",
         "start_date": "2025-11-6",
@@ -44,8 +44,8 @@
         "description": "Kaleum Expedition and Solar Soul Studios proudly present:🔥THE CONVERGENCE 🔥A combined competitive event across four Roblox titles"
     },
     "applications": {
-      "title": "Medic Applications Are Now Open!",
-      "description": "We’re seeking active, skilled, and professional medics to join the Search and Rescue Department and ensure climbers' safety during expeditions."
+      "title": "🧭 Guide Applications Are Now Open!",
+      "description": "We’re looking for active, mature, and professional guides to help lead expeditions and represent our community with amazing skills!"
     },
     "tips": [
       "1. Be respectful to everyone.",
